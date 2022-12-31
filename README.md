@@ -1,4 +1,4 @@
-# Psalms-Scroll-Font-Hasmonean
+# Psalms-Scroll-Font-Hasmonean by Bodin Florin Ciprian from Arad (contact@beitdina.net)
    
 # Font Version 0.1 Alpha | The-Psalms-Scroll-4QPs
    
