@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
+   sodipodi:docname="alef_Psalms-Scroll-Font-Hasmonean.svg"
+   id="svg6"
+   viewBox="-10 0 1988 2048"
+   version="1.1">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     inkscape:current-layer="g4"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="1030.9153"
+     inkscape:cx="1585.0189"
+     inkscape:zoom="0.19334951"
+     showgrid="false"
+     id="namedview8"
+     inkscape:window-height="707"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     id="g4"
+     transform="matrix(1 0 0 -1 0 1638)">
+    <path
+       sodipodi:nodetypes="cccccccccccsccccc"
+       inkscape:connector-curvature="0"
+       id="path2"
+       d="M 702.11428,1135.8572 C 527.06484,903.6426 274.70672,488.36431 37.540317,146.75942 3.5580565,124.46586 -28.944908,166.08023 -24.3507,179.33738 251.58953,597.1267 546.05627,1057.4785 844.30537,1417.2653 c 23.33552,7.4387 55.21737,-18.1815 57.61507,-42.4742 -46.29448,-54.8541 -88.67671,-119.5708 -152.40616,-188.1053 96,-103 366.79912,-409.48494 370.85712,-413.54294 6.667,-4 22.4351,-22.35488 26.1636,-18.31484 213.0721,212.62366 569.0161,550.48028 699.7025,658.21998 28.6749,14.1719 66.456,-11.6877 46.3914,-36.4145 -131.2989,-113.7104 -519.586,-480.4754 -711.6704,-678.92031 1.6988,-10.16596 5.2755,-18.23485 7.0628,-29.13148 26.3839,-160.85231 53.1616,-416.35111 64.5697,-518.76152 -9.9006,-5.09847 -55.0936,-2.41238 -70.1053,-0.70591 -20.8205,101.65614 -31.1407,334.82803 -61.1407,514.82803 -1.333,8 -0.7324,17.415 -6,24 -116.3193,94.65874 -396.05311,423.62189 -413.23072,447.91489 z"
+       fill="currentColor" />
+  </g>
+</svg>
