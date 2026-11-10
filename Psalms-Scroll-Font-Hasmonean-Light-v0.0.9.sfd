@@ -12,16 +12,18 @@ UnderlineWidth: 70
 Ascent: 1638
 Descent: 410
 InvalidEm: 0
+sfntRevision: 0x0001199a
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
 XUID: [1021 594 1227166039 954430]
+StyleMap: 0x0040
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1244295734
-ModificationTime: 1794200804
+ModificationTime: 1794255049
 PfmFamily: 17
 TTFWeight: 600
 TTFWidth: 5
@@ -54,6 +56,11 @@ OS2StrikeYPos: 512
 OS2Vendor: 'YGNT'
 OS2CodePages: 00000021.00000000
 OS2UnicodeRanges: 8000086f.4000204a.00000000.00000000
+Lookup: 1 0 0 "'aalt' Access All Alternates lookup 0" { "'aalt' Access All Alternates lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 3 0 0 "'aalt' Access All Alternates lookup 1" { "'aalt' Access All Alternates lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 2" { "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 0"  "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 1"  "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 2"  "'ccmp' Glyph Composition/Decomposition lookup 2 contextual 3"  } ['ccmp' ('DFLT' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 3" { "Single Substitution lookup 3 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 4" { "Single Substitution lookup 4 subtable"  } []
 Lookup: 4 1 0 "'ccmp' Hataf Metg substitutions" { "'ccmp' Hataf Meteg substitutions subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 4 257 0 "'ccmp' Shin composed with shin or sin dot" { "'ccmp' Shin composed with shin or sin dot subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
 Lookup: 4 513 0 "'ccmp' Dagesh and Rafe Compositions" { "'ccmp' Dagesh and Rafe Compositions subtable"  } ['ccmp' ('hebr' <'dflt' > ) ]
@@ -79,7 +86,25 @@ Lookup: 6 1 0 "'ccmp' Alternate Ayin substitutions" { "'calt' Alternate Ayin sub
 Lookup: 1 1 0 "Automatic Alternate Ayin" { "Automatic Alternate Ayin Subtable"  } []
 Lookup: 1 1 0 "'jalt' Wide Letter Alternatives in Hebrew" { "'jalt' Wide Letter Alternatives in Hebrew subtable"  } ['jalt' ('hebr' <'dflt' > ) ]
 Lookup: 1 1 0 "'salt' Stylistic Alternatives in Hebrew" { "'salt' Stylistic Alternatives in Hebrew subtable"  } ['salt' ('hebr' <'dflt' > ) ]
+Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition lookup 5" { "'ccmp' Glyph Composition/Decomposition lookup 5 subtable"  } ['ccmp' ('DFLT' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 6" { "Single Substitution lookup 6 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 7" { "Single Substitution lookup 7 subtable"  } []
+Lookup: 1 0 0 "'subs' Subscript lookup 8" { "'subs' Subscript lookup 8 subtable" ("inferior") } ['subs' ('DFLT' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'sinf' Scientific Inferiors lookup 9" { "'sinf' Scientific Inferiors lookup 9 subtable"  } ['sinf' ('DFLT' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "'sups' Superscript lookup 10" { "'sups' Superscript lookup 10 subtable" ("superior") } ['sups' ('DFLT' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 0 "'frac' Diagonal Fractions lookup 11" { "'frac' Diagonal Fractions lookup 11 subtable"  } ['frac' ('DFLT' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 6 0 0 "'ordn' Ordinals lookup 12" { "'ordn' Ordinals lookup 12 contextual 0"  "'ordn' Ordinals lookup 12 contextual 1"  } ['ordn' ('DFLT' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 13" { "Single Substitution lookup 13 subtable"  } []
+Lookup: 1 0 0 "'case' Case-Sensitive Forms lookup 14" { "'case' Case-Sensitive Forms lookup 14 subtable"  } ['case' ('DFLT' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 8 0 "'dlig' Discretionary Ligatures lookup 15" { "'dlig' Discretionary Ligatures lookup 15 subtable"  } ['dlig' ('DFLT' <'dflt' > 'hebr' <'IWR ' 'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures in Hebrew lookup 16" { "'liga' Standard Ligatures in Hebrew lookup 16 subtable"  } ['liga' ('DFLT' <'dflt' > 'hebr' <'dflt' > ) ]
+Lookup: 4 0 1 "'liga' Standard Ligatures in Hebrew lookup 17" { "'liga' Standard Ligatures in Hebrew lookup 17 subtable"  } ['liga' ('DFLT' <'dflt' > 'hebr' <'dflt' > ) ]
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0-1"  } ['kern' ('latn' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning in Latin lookup 1" { "'kern' Horizontal Kerning in Latin lookup 1 per glyph data 0"  "'kern' Horizontal Kerning in Latin lookup 1 kerning class 1"  } ['kern' ('latn' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning in Hebrew lookup 2" { "'kern' Horizontal Kerning in Hebrew lookup 2 subtable"  } ['kern' ('hebr' <'dflt' > ) ]
+Lookup: 258 0 0 "'kern' Horizontal Kerning in Hebrew lookup 3" { "'kern' Horizontal Kerning in Hebrew lookup 3 subtable"  } ['kern' ('hebr' <'dflt' > ) ]
+Lookup: 260 0 0 "'mark' Mark Positioning lookup 4" { "'mark' Mark Positioning lookup 4 subtable"  } ['mark' ('DFLT' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Puncta Positioning" { "'mark' Puncta Postioning subtable"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark'Dagesh Positioning" { "'mark' Dagesh Positioning subtable"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Base vowels Positioning" { "'mark' Base vowels Positioning subtable"  } ['mark' ('hebr' <'dflt' > ) ]
@@ -122,6 +147,7 @@ Lookup: 264 1 0 "'mark' Meteg and Hataf" { "'mark' Meteg and Hataf subtable"  } 
 Lookup: 260 1 0 "Meteg and Hataf anchor" { "Meteg and Hataf anchor subtable"  } []
 Lookup: 264 1 0 "'mark' Meteg and wide Vowel" { "'mark' meteg and wide Vowel subtable"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 260 1 0 "Meteg and wide Vowel anchor" { "Meteg and wide Vowel anchor subtable"  } []
+Lookup: 261 0 0 "'mark' Mark Positioning lookup 5" { "'mark' Mark Positioning lookup 5 subtable"  } ['mark' ('DFLT' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 264 1 0 "'mark' Meteg and narrow Vowel" { "'mark' Meteg and narrow Vowel subtable"  } ['mark' ('hebr' <'dflt' > ) ]
 Lookup: 260 1 0 "Meteg and narrow Vowel anchor" { "Meteg and narrow Vowel subtable"  } []
 Lookup: 264 1 0 "'mark' Right Accent Meteg and Vowel" { "'mark' Right Accent Meteg and Vowel contextual 0"  "'mark' Right Accent Meteg and Vowel contextual 1"  "'mark' Right Accent Meteg and Vowel contextual 2"  "'mark' Right Accent Meteg and Vowel contextual 3"  "'mark' Right Accent Meteg and Vowel contextual 4"  "'mark' Right Accent Meteg and Vowel contextual 5"  "'mark' Right Accent Meteg and Vowel contextual 6"  "'mark' Right Accent Meteg and Vowel contextual 7"  "'mark' Right Accent Meteg and Vowel contextual 8"  "'mark' Right Accent Meteg and Vowel contextual 9"  } ['mark' ('hebr' <'dflt' > ) ]
@@ -133,11 +159,16 @@ Lookup: 260 1 0 "Right Accent Vowel and Meteg anchor 1" { "Right Accent Vowel an
 Lookup: 260 1 0 "Right Accent Vowel and Meteg anchor 2" { "Right Accent Vowel and Meteg anchor 2 subtable"  } []
 Lookup: 260 1 0 "Right Accent Vowel and Meteg anchor 3" { "Right Accent Vowel and Meteg anchor 3 subtable"  } []
 Lookup: 262 1 0 "'mkmk' Vowel after Meteg Relative positioning" { "'mkmk' Vowel after Meteg Relative positioning subtable"  } ['mkmk' ('hebr' <'dflt' > ) ]
-MarkAttachClasses: 5
+Lookup: 262 16 0 "'mkmk' Mark to Mark lookup 6" { "'mkmk' Mark to Mark lookup 6 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 262 65552 0 "'mkmk' Mark to Mark lookup 7" { "'mkmk' Mark to Mark lookup 7 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 4
 "MarkClass-1" 14 shindot sindot
 "MarkClass-2" 11 dagesh rafe
 "MarkClass-3" 106 sheva hatafsegol hatafpatah hatafqamats hiriq tsere segol patah qamats holam holamhaser qubuts qamatsqatan
 "MarkClass-4" 286 atnah segolta shalshelet zaqefqatan zaqefgadol tipeha revia zarqa pashta yetiv tevir gereshaccent gereshmuqdam gershayimaccent qarneypara telishagedola pazer atnahhafukh munah mahapakh merkha merkhakefula darga qadma telishaqetana yerahbenyomo ole iluy dehi tsinor masoracircle jsvarika
+MarkAttachSets: 2
+"MarkSet-0" 95 uni05B0 uni05B1 uni05B2 uni05B3 uni05B4 uni05B5 uni05B6 uni05B7 uni05BB uni05C7 uni0326 uni0327
+"MarkSet-1" 101 uni0308 uni0307 gravecomb acutecomb uni030B uni0302 uni030C uni0306 uni030A tildecomb uni0304 uni0312
 DEI: 91125
 ChainPos2: coverage "'mark' Hiriq Before Final Mem contextual 0" 0 0 0 1
  1 1 1
@@ -2316,7 +2347,7 @@ NameList: Adobe Glyph List
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 130 13 5
+WinInfo: 0 13 6
 BeginPrivate: 1
 BlueValues 6 [0 20]
 EndPrivate
@@ -2335,7 +2366,7 @@ Grid
  -470 -249.58 -470 -386.42 -470 -629 c 1048
 EndSplineSet
 TeXData: 1 0 0 204800 102400 68266 467968 -1048576 68266 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-AnchorClass2: "Anchor-3"""  "Anchor-4"""  "Anchor-0"""  "Anchor-1"""  "Anchor-2"""  "A-1" "'mark' Puncta Postioning subtable" "A-3" "'mark' Dagesh Positioning subtable" "A-4" "'mark' Base vowels Positioning subtable" "A-5" "'mark' Base vowels Positioning subtable" "A-6" "'mark' Base vowels Positioning subtable" "A-7" "'mark' Base vowels Positioning subtable" "A-20" "'mark' Base Holam positioning subtable" "A-23" "'mark' Upper Marks Positioning subtable" "A-24" "'mark' Upper Marks Positioning subtable" "A-25" "'mark' Upper Marks Positioning subtable" "A-26" "'mark' Upper Marks Positioning subtable" "A-27" "'mark' Upper Marks Positioning subtable" "A-28" "'mark' Upper Marks Positioning subtable" "A-29" "'mark' Upper Marks Positioning subtable" "A-30" "'mark' Upper Marks Positioning subtable" "A-31" "'mark' Upper Marks Positioning subtable" "A-32" "'mark' Upper Marks Positioning subtable" "A-40" "'mark' Low Accents Base Positioning subtable" "A-41" "'mark' Low Accents Base Positioning subtable" "A-43" "'mkmk' Low marks relative positioning rule 1 subtable" "A-44" "'mkmk' Low marks relative positioning rule 1 subtable" "A-45" "'mkmk' Low marks relative positioning rule 1 subtable" "A-46" "'mkmk' Low marks relative positioning rule 1 subtable" "A-47" "'mkmk' Low marks relative positioning rule 1 subtable" "A-48" "'mkmk' Low marks relative positioning rule 1 subtable" "A-49" "'mkmk' Low marks relative positioning rule 2 subtable" "A-50" "'mkmk' Low marks relative positioning rule 2 subtable" "A-51" "'mkmk' Low marks relative positioning rule 3 subtable" "A-52" "'mkmk' Low marks relative positioning rule 3 subtable" "A-53" "'mkmk' Low marks relative positioning rule 3 subtable" "A-54" "'mkmk' Low marks relative positioning rule 3 subtable" "A-56" "'mkmk' High marks relative positioning subtable" "A-57" "'mkmk' High marks relative positioning subtable" "A-60" "'mark' Dotted Circle with Shin dots subtable" "A-70" "'mkmk' Vowel after Meteg Relative positioning subtable" "A-71" "'mkmk' Vowel after Meteg Relative positioning subtable" "A-72" "'mkmk' Vowel after Meteg Relative positioning subtable" "A-73" "'mkmk' Vowel after Meteg Relative positioning subtable" "A-8" "vowel before low accent anchor subtable" "A-9" "vowel before low accent anchor subtable" "A-10" "vowel before low accent anchor subtable" "A-11" "vowel before two low marks anchor subtable" "A-12" "vowel before two low marks anchor subtable" "A-13" "vowel before two low marks anchor subtable" "A-14" "vowel meteg and right mark anchor subtable" "A-15" "vowel meteg and right mark anchor subtable" "A-16" "vowel meteg and right mark anchor subtable" "A-17" "vowel and right mark anchors subtable" "A-18" "vowel and right mark anchors subtable" "A-19" "vowel and right mark anchors subtable" "A-21" "Mark to base attachment lookup 44 subtable" "A-22" "Holam above narrow letters anchor subtable" "A-33" "Mark to Mark Segolta Pashta Tsinor to Holam subtable" "A-34" "Mark to Mark Segolta Pashta Tsinor to Holam subtable" "A-35" "Mark to Mark Segolta Pashta Tsinor to Holam subtable" "A-36" "Segolta and Telisha Qetana anchor subtable" "A-39" "Telisha Gedola anchors subtable" "A-42" "Low Accent before Low Accent anchor subtable" "A-55" "High Accent before High Accent positioning anchor subtable" "A-59" "Hiriq Before Final Mem anchor subtable" "A-61" "Meteg and Hataf anchor subtable" "A-62" "Meteg and wide Vowel anchor subtable" "A-63" "Meteg and narrow Vowel subtable" "A-64" "Right Accent Meteg and Vowel anchor 1 subtable" "A-65" "Right Accent Meteg and Vowel anchor 2 subtable" "A-66" "Right Accent Meteg and Vowel anchor 3 subtable" "A-67" "Right Accent Vowel and Meteg anchor 1 subtable" "A-68" "Right Accent Vowel and Meteg anchor 2 subtable" "A-69" "Right Accent Vowel and Meteg anchor 3 subtable"
+AnchorClass2: "Anchor-5"""  "Anchor-10"""  "Anchor-13"""  "Anchor-9"""  "Anchor-8"""  "Anchor-12"""  "Anchor-3"""  "Anchor-4"""  "Anchor-0"""  "Anchor-1"""  "Anchor-2"""  "A-1" "'mark' Puncta Postioning subtable" "A-3" "'mark' Dagesh Positioning subtable" "A-4" "'mark' Base vowels Positioning subtable" "A-5" "'mark' Base vowels Positioning subtable" "A-6" "'mark' Base vowels Positioning subtable" "A-7" "'mark' Base vowels Positioning subtable" "A-20" "'mark' Base Holam positioning subtable" "A-23" "'mark' Upper Marks Positioning subtable" "A-24" "'mark' Upper Marks Positioning subtable" "A-25" "'mark' Upper Marks Positioning subtable" "A-26" "'mark' Upper Marks Positioning subtable" "A-27" "'mark' Upper Marks Positioning subtable" "A-28" "'mark' Upper Marks Positioning subtable" "A-29" "'mark' Upper Marks Positioning subtable" "A-30" "'mark' Upper Marks Positioning subtable" "A-31" "'mark' Upper Marks Positioning subtable" "A-32" "'mark' Upper Marks Positioning subtable" "A-40" "'mark' Low Accents Base Positioning subtable" "A-41" "'mark' Low Accents Base Positioning subtable" "A-43" "'mkmk' Low marks relative positioning rule 1 subtable" "A-44" "'mkmk' Low marks relative positioning rule 1 subtable" "A-45" "'mkmk' Low marks relative positioning rule 1 subtable" "A-46" "'mkmk' Low marks relative positioning rule 1 subtable" "A-47" "'mkmk' Low marks relative positioning rule 1 subtable" "A-48" "'mkmk' Low marks relative positioning rule 1 subtable" "A-49" "'mkmk' Low marks relative positioning rule 2 subtable" "A-50" "'mkmk' Low marks relative positioning rule 2 subtable" "A-51" "'mkmk' Low marks relative positioning rule 3 subtable" "A-52" "'mkmk' Low marks relative positioning rule 3 subtable" "A-53" "'mkmk' Low marks relative positioning rule 3 subtable" "A-54" "'mkmk' Low marks relative positioning rule 3 subtable" "A-56" "'mkmk' High marks relative positioning subtable" "A-57" "'mkmk' High marks relative positioning subtable" "A-60" "'mark' Dotted Circle with Shin dots subtable" "A-70" "'mkmk' Vowel after Meteg Relative positioning subtable" "A-71" "'mkmk' Vowel after Meteg Relative positioning subtable" "A-72" "'mkmk' Vowel after Meteg Relative positioning subtable" "A-73" "'mkmk' Vowel after Meteg Relative positioning subtable" "A-8" "vowel before low accent anchor subtable" "A-9" "vowel before low accent anchor subtable" "A-10" "vowel before low accent anchor subtable" "A-11" "vowel before two low marks anchor subtable" "A-12" "vowel before two low marks anchor subtable" "A-13" "vowel before two low marks anchor subtable" "A-14" "vowel meteg and right mark anchor subtable" "A-15" "vowel meteg and right mark anchor subtable" "A-16" "vowel meteg and right mark anchor subtable" "A-17" "vowel and right mark anchors subtable" "A-18" "vowel and right mark anchors subtable" "A-19" "vowel and right mark anchors subtable" "A-21" "Mark to base attachment lookup 44 subtable" "A-22" "Holam above narrow letters anchor subtable" "A-33" "Mark to Mark Segolta Pashta Tsinor to Holam subtable" "A-34" "Mark to Mark Segolta Pashta Tsinor to Holam subtable" "A-35" "Mark to Mark Segolta Pashta Tsinor to Holam subtable" "A-36" "Segolta and Telisha Qetana anchor subtable" "A-39" "Telisha Gedola anchors subtable" "A-42" "Low Accent before Low Accent anchor subtable" "A-55" "High Accent before High Accent positioning anchor subtable" "A-59" "Hiriq Before Final Mem anchor subtable" "A-61" "Meteg and Hataf anchor subtable" "A-62" "Meteg and wide Vowel anchor subtable" "A-63" "Meteg and narrow Vowel subtable" "A-64" "Right Accent Meteg and Vowel anchor 1 subtable" "A-65" "Right Accent Meteg and Vowel anchor 2 subtable" "A-66" "Right Accent Meteg and Vowel anchor 3 subtable" "A-67" "Right Accent Vowel and Meteg anchor 1 subtable" "A-68" "Right Accent Vowel and Meteg anchor 2 subtable" "A-69" "Right Accent Vowel and Meteg anchor 3 subtable"
 BeginChars: 67760 472
 
 StartChar: .null
@@ -4372,44 +4403,18 @@ AnchorPoint: "A-5" -0.0400391 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
--35.5 1308.5 m 261
- -38.833 1296.5 -44.333 1285.67 -52 1276 c 260
- -59.667 1266.33 -68.333 1258.17 -78 1251.5 c 260
- -87.667 1244.83 -98 1240.5 -109 1238.5 c 260
- -120 1236.5 -130.5 1236.83 -140.5 1239.5 c 260
- -151.167 1242.83 -160.333 1248.33 -168 1256 c 260
- -175.667 1263.67 -181.833 1273 -186.5 1284 c 260
- -191.167 1295 -193.833 1306.67 -194.5 1319 c 260
- -195.167 1331.33 -193.667 1343.67 -190 1356 c 260
- -186.333 1368.33 -180.667 1379.83 -173 1390.5 c 260
- -165.333 1401.17 -156.5 1409.5 -146.5 1415.5 c 260
- -136.5 1421.5 -126.167 1425.83 -115.5 1428.5 c 260
- -104.833 1431.17 -94.167 1430.83 -83.5 1427.5 c 260
- -73.5 1424.17 -64.5 1418.33 -56.5 1410 c 260
- -48.5 1401.67 -42.167 1392.33 -37.5 1382 c 260
- -32.833 1371.67 -30.333 1359.83 -30 1346.5 c 260
- -29.667 1333.17 -31.5 1320.5 -35.5 1308.5 c 261
- -35.5 1308.5 l 261
-77.5 1546 m 257
- 74.167 1534 68.667 1523.17 61 1513.5 c 256
- 53.333 1503.83 44.667 1495.67 35 1489 c 256
- 25.333 1482.33 15 1478 4 1476 c 256
- -7 1474 -17.5 1474.33 -27.5 1477 c 256
- -38.167 1480.33 -47.333 1485.83 -55 1493.5 c 256
- -62.667 1501.17 -68.833 1510.5 -73.5 1521.5 c 256
- -78.167 1532.5 -80.833 1544.17 -81.5 1556.5 c 256
- -82.167 1568.83 -80.667 1581.17 -77 1593.5 c 256
- -73.333 1605.83 -67.667 1617.33 -60 1628 c 256
- -52.333 1638.67 -43.5 1647 -33.5 1653 c 256
- -23.5 1659 -13.167 1663.33 -2.5 1666 c 256
- 8.16699 1668.67 18.833 1668.33 29.5 1665 c 256
- 39.5 1661.67 48.5 1655.83 56.5 1647.5 c 256
- 64.5 1639.17 70.833 1629.83 75.5 1619.5 c 256
- 80.167 1609.17 82.667 1597.33 83 1584 c 256
- 83.333 1570.67 81.5 1558 77.5 1546 c 257
- 77.5 1546 l 257
+83 -220 m 128
+ 89.6669921875 -223.333007812 93 -227 93 -235 c 256
+ 93 -241.666992188 90.5 -246.5 85.5 -249.5 c 128
+ 77.868463779 -254.078921733 56.638671875 -260 20 -260 c 257
+ 20 -354.689453125 15.1262273349 -353 -2 -353 c 256
+ -24 -353 -23 -345.161132812 -23 -261 c 257
+ -23.634765625 -261.079101562 -72.9063591674 -261.781779398 -88 -256.5 c 128
+ -94.6669921875 -254.166992188 -96 -245.333007812 -96 -238 c 256
+ -96 -232.666992188 -93.8330078125 -230.166992188 -89.5 -226.5 c 128
+ -73.8720703125 -213.274414062 66.638671875 -211.8203125 83 -220 c 128
 EndSplineSet
-Validated: 1
+Validated: 33
 LCarets2: 1 16
 MultipleSubs2: "Add hairspace after last low mark subtable" qamats hairspace
 MultipleSubs2: "Add thinspace before narrow letter subtable" qamats thinspace
@@ -4939,8 +4944,8 @@ Encoding: 315 1479 59
 Width: 0
 GlyphClass: 4
 Flags: HW
-HStem: -278 144<-159 -42 42 159>
-VStem: -42 84<-512.953 -278>
+HStem: -278 144<-181 -64 20 137>
+VStem: -64 84<-512.953 -278>
 AnchorPoint: "A-18" -44 0 mark 0
 AnchorPoint: "A-15" -44 0 mark 0
 AnchorPoint: "A-12" -308 0 mark 0
@@ -4957,44 +4962,22 @@ AnchorPoint: "A-5" 0 0 mark 0
 LayerCount: 2
 Fore
 SplineSet
-500.5 1420.5 m 1
- 497.166992188 1408.5 491.666992188 1397.66699219 484 1388 c 0
- 476.333007812 1378.33300781 467.666992188 1370.16699219 458 1363.5 c 0
- 448.333007812 1356.83300781 438 1352.5 427 1350.5 c 0
- 416 1348.5 405.5 1348.83300781 395.5 1351.5 c 0
- 384.833007812 1354.83300781 375.666992188 1360.33300781 368 1368 c 0
- 360.333007812 1375.66699219 354.166992188 1385 349.5 1396 c 0
- 344.833007812 1407 342.166992188 1418.66699219 341.5 1431 c 0
- 340.833007812 1443.33300781 342.333007812 1455.66699219 346 1468 c 0
- 349.666992188 1480.33300781 355.333007812 1491.83300781 363 1502.5 c 0
- 370.666992188 1513.16699219 379.5 1521.5 389.5 1527.5 c 0
- 399.5 1533.5 409.833007812 1537.83300781 420.5 1540.5 c 0
- 431.166992188 1543.16699219 441.833007812 1542.83300781 452.5 1539.5 c 0
- 462.5 1536.16699219 471.5 1530.33300781 479.5 1522 c 0
- 487.5 1513.66699219 493.833007812 1504.33300781 498.5 1494 c 0
- 503.166992188 1483.66699219 505.666992188 1471.83300781 506 1458.5 c 0
- 506.333007812 1445.16699219 504.5 1432.5 500.5 1420.5 c 1
- 500.5 1420.5 l 1
-229 1134 m 1
- 225.666992188 1122 220.166992188 1111.16699219 212.5 1101.5 c 0
- 204.833007812 1091.83300781 196.166992188 1083.66699219 186.5 1077 c 0
- 176.833007812 1070.33300781 166.5 1066 155.5 1064 c 0
- 144.5 1062 134 1062.33300781 124 1065 c 0
- 113.333007812 1068.33300781 104.166992188 1073.83300781 96.5 1081.5 c 0
- 88.8330078125 1089.16699219 82.6669921875 1098.5 78 1109.5 c 0
- 73.3330078125 1120.5 70.6669921875 1132.16699219 70 1144.5 c 0
- 69.3330078125 1156.83300781 70.8330078125 1169.16699219 74.5 1181.5 c 0
- 78.1669921875 1193.83300781 83.8330078125 1205.33300781 91.5 1216 c 0
- 99.1669921875 1226.66699219 108 1235 118 1241 c 0
- 128 1247 138.333007812 1251.33300781 149 1254 c 0
- 159.666992188 1256.66699219 170.333007812 1256.33300781 181 1253 c 0
- 191 1249.66699219 200 1243.83300781 208 1235.5 c 0
- 216 1227.16699219 222.333007812 1217.83300781 227 1207.5 c 0
- 231.666992188 1197.16699219 234.166992188 1185.33300781 234.5 1172 c 0
- 234.833007812 1158.66699219 233 1146 229 1134 c 1
- 229 1134 l 1
+150.520507812 -167.184570312 m 0
+ 164.173828125 -174.01171875 171 -185.616210938 171 -202 c 0
+ 171 -215.653320312 171.007640164 -236.943723187 160.767578125 -243.087890625 c 0
+ 145.142026536 -252.463420275 96.0390625 -256 21 -256 c 1
+ 18.423828125 -354.599609375 16.9438266704 -417.016423323 11 -434 c 0
+ 6.2216796875 -447.653320312 -5.04296875 -454.479492188 -22.7919921875 -454.479492188 c 0
+ -41.90625 -454.479492188 -57.2942385105 -447.285506122 -58.6328125 -430.927734375 c 0
+ -61 -402 -63.48828125 -390.855617164 -63.48828125 -316.81640625 c 2
+ -63.48828125 -258.448242188 l 1
+ -64.7889135696 -258.610811537 -163.654413715 -268.24085399 -194.559570312 -257.423828125 c 0
+ -208.213216146 -252.645182292 -215.040039062 -242.746419271 -215.040039062 -227.727539062 c 0
+ -215.040039062 -216.805013021 -215.5703125 -190.869140625 -206.6953125 -183.360351562 c 0
+ -197.821289062 -175.8515625 -187.922851562 -170.731445312 -177 -168 c 0
+ -139.749023438 -159.72265625 103.693833942 -143.769558723 150.520507812 -167.184570312 c 0
 EndSplineSet
-Validated: 1
+Validated: 33
 MultipleSubs2: "Add hairspace after last low mark subtable" qamatsqatan hairspace
 MultipleSubs2: "Add thinspace before narrow letter subtable" qamatsqatan thinspace
 MultipleSubs2: "Add hairspace before low marked Qof" qamatsqatan hairspace
@@ -5129,16 +5112,14 @@ SplineSet
  226.602597403 346.561038961 191.201605667 337.420232754 166.9990908 337.420232754 c 0
  125.879766571 337.420232754 117.0848 363.805132468 117.0848 386.37888 c 0
  117.0848 403.2544 122 418 122 418 c 1
- 158 460 166 457 316 516 c 0
- 668 655 878 732 882 737 c 0
- 941 813 966 1250 977 1291 c 0
- 984 1316 1009 1345 1013 1347 c 0
- 1022.08498136 1351.37425028 1032.18893663 1353.37089479 1042.39755874 1353.37089479 c 0
+ 158 460 166.079445627 456.798417449 316 516 c 0
+ 668 655 885 732 889 737 c 0
+ 948 813 965.554217601 1250.12220572 977 1291 c 0
+ 979.489276273 1299.8902724 996.376614933 1353.37089479 1042.39755874 1353.37089479 c 0
  1062.52832712 1353.37089479 1083.06609661 1345.60686497 1097 1333 c 0
  1114 1318 1124 1296 1121 1274 c 0
  1082 1029 1043 911 1006 713 c 1
 EndSplineSet
-Validated: 1
 LCarets2: 1 98
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimel
 MultipleSubs2: "Add hairspace before low marked Qof" gimel hairspace
@@ -5203,61 +5184,60 @@ Fore
 SplineSet
 908 15 m 1
  923 113 937 180 937 243 c 0
- 937 267 935 291 930 315 c 0
- 911 412 880 497 872 585 c 1
- 870 598 869 610 869 620 c 0
- 869 653 876 676 876 707 c 0
- 876 711 876 716 876 720 c 1
- 858 751 849 781 845 812 c 0
- 844 818 844 824 844 831 c 0
- 844 886 870 950 885 1008 c 1
- 866 1008 259 1000 214 1000 c 2
- 81 1000 l 1
- 88 1064 l 1
- 219 1065 l 2
- 261 1065 424 1067 507 1067 c 0
- 521 1067 533 1067 541 1067 c 0
- 555 1067 804 1070 862 1070 c 0
- 876 1070 888 1069 895 1069 c 1
- 896 1072 896 1075 896 1078 c 0
- 896 1109 858 1154 858 1181 c 0
- 858 1182 l 1
- 869 1194 889 1193 908 1194 c 0
- 909 1194 909 1194 910 1194 c 0
- 945 1194 970 1107 973 1072 c 0
- 973 1070 973 1069 973 1067 c 0
- 973 992 919 918 919 848 c 0
- 919 838 920 829 922 819 c 0
- 930 786 956 759 956 725 c 0
- 956 724 956 723 956 722 c 0
- 956 689 943 657 943 615 c 0
- 943 605 943 595 945 585 c 0
- 958 512 973 440 988 369 c 0
+ 937 267 934.712415275 290.94187991 930 315 c 0
+ 911 412 883 519 875 607 c 1
+ 873 620 872 632 872 642 c 0
+ 872 675 879 698 879 729 c 0
+ 879 733 879 738 879 742 c 1
+ 861 773 852 803 848 834 c 0
+ 847 840 847 846 847 853 c 0
+ 847 908 873 972 888 1030 c 1
+ 869 1030 262 1022 217 1022 c 2
+ 84 1022 l 1
+ 91 1086 l 1
+ 222 1087 l 2
+ 264 1087 427 1089 510 1089 c 0
+ 524 1089 536 1089 544 1089 c 0
+ 558 1089 807 1092 865 1092 c 0
+ 879 1092 891 1091 898 1091 c 1
+ 899 1094 899 1097 899 1100 c 0
+ 899 1131 861 1176 861 1203 c 0
+ 861 1204 l 1
+ 872 1216 892 1215 911 1216 c 0
+ 912 1216 912 1216 913 1216 c 0
+ 948 1216 973 1129 976 1094 c 0
+ 976 1092 976 1091 976 1089 c 0
+ 976 1014 922 940 922 870 c 0
+ 922 860 923 851 925 841 c 0
+ 933 808 959 781 959 747 c 0
+ 959 746 959 745 959 744 c 0
+ 959 711 946 679 946 637 c 0
+ 946 627 946 617 948 607 c 0
+ 961 534 972.492613671 439.890908932 988 369 c 0
  1002 305 1007 261 1007 222 c 0
  1007 158 993 111 978 22 c 1
  908 15 l 1
 208 4 m 1
  202 114 189 192 183 306 c 0
  182 328 181 350 181 371 c 0
- 181 429 186 486 199 538 c 0
- 215 603 236 667 244 729 c 0
- 249 767 251 804 251 842 c 0
- 251 849 251 857 251 864 c 0
- 250 892 241 917 241 946 c 0
- 241 949 241 951 241 954 c 1
- 318 962 l 1
- 319 945 320 928 320 911 c 0
- 320 899 319 887 319 875 c 0
- 319 866 319 857 319 848 c 0
- 319 831 319 816 319 800 c 0
- 319 777 318 753 316 724 c 0
- 312 669 283 590 268 543 c 1
- 258 491 255 436 255 382 c 0
+ 181 429 186.188489888 485.953240171 199 538 c 0
+ 215 603 239 689 247 751 c 0
+ 252 789 254 826 254 864 c 0
+ 254 871 254 879 254 886 c 0
+ 253 914 244 939 244 968 c 0
+ 244 971 244 973 244 976 c 1
+ 321 984 l 1
+ 322 967 323 950 323 933 c 0
+ 323 921 322 909 322 897 c 0
+ 322 888 322 879 322 870 c 0
+ 322 853 322 838 322 822 c 0
+ 322 799 321 775 319 746 c 0
+ 315 691 286 612 271 565 c 1
+ 261 513 255 436 255 382 c 0
  255 357 256 331 257 306 c 0
  263 192 276 119 287 18 c 1
  208 4 l 1
 EndSplineSet
-Validated: 1
 LCarets2: 1 76
 MultipleSubs2: "Add hairspace before low marked Qof" he hairspace
 Substitution2: "'jalt' Wide Letter Alternatives in Hebrew subtable" he.wide
@@ -6916,56 +6896,40 @@ SplineSet
 1158.046875 1102.58007812 m 0
  1164.609375 1096.6171875 1171.77734375 1083.92285156 1172.88671875 1068.69921875 c 0
  1175.18554688 1037.12597656 1165.67779254 994.266197046 1159.76074219 978.856445312 c 0
- 1123.1640625 883.547851563 1098.83479827 794.752197399 1049 720 c 0
- 937 552 889 508 759.5234375 393.2265625 c 0
+ 1052.20645099 698.753213734 1025.38217925 628.894864866 759.5234375 393.2265625 c 0
  715.327909893 354.049799326 661 324 569 272 c 0
  531.333984375 250.709960938 467.152476902 209.680001918 442.165039062 201.365234375 c 0
  402 188 400.557617188 185.393554688 371 175 c 0
  361.657226562 171.71484375 337.858398438 161.09375 327 153 c 1
  333.670898438 126.21484375 355.190999852 58.2153916693 343 42 c 0
  296.318359375 -20.091796875 259.665039062 -4.7373046875 235.116210938 20.333984375 c 1
- 218.272460938 107.15625 205.362304688 176.822265625 193.064453125 245.173828125 c 0
- 189.5546875 264.677734375 186.094726562 284.07421875 182.609375 303.733398438 c 0
- 172.294921875 354.109375 162.618164062 405.865234375 153.671875 457.197265625 c 0
- 145.490234375 504.140625 137.920898438 550.731445312 131.03515625 595.590820312 c 0
- 118.518554688 677.337890625 107.635742188 756.630859375 96.662109375 835.387695312 c 0
- 93.2001953125 860.236328125 89.7275390625 895.78515625 86.1923828125 920.587890625 c 0
- 82.2958984375 989.080078125 84.513671875 1014.07421875 85.8662109375 1058.87792969 c 0
- 85.3359375 1085.59277344 91.21484375 1099.57910156 115.014648438 1105.98535156 c 0
+ 182 210 98 912 85.8662109375 1058.87792969 c 0
+ 83.6663199639 1085.50732221 91.21484375 1099.57910156 115.014648438 1105.98535156 c 0
  123.552734375 1108.17578125 132.323242188 1108.8359375 138.715820312 1108.59082031 c 0
  170.291015625 1102.11621094 179.369146691 1097.73857019 182.596679688 1066.69824219 c 0
- 186.029296875 1033.68554688 184.197265625 1000.171875 187.090820312 967.983398438 c 0
- 190.936523438 925.639648438 197.543082836 884.031260105 201 845 c 0
- 208.586914062 759.337890625 225 692 236 599 c 1
+ 196.526264664 932.732489659 196.526264664 932.732489659 236 599 c 1
  240.346679688 603.00390625 291.88763628 623.738321492 339.655273438 660.477539062 c 0
- 402.747070313 709.002929688 414.659179688 732.354492188 456.125 796.349609375 c 0
- 478.81640625 837.251953125 500.681640625 880.190429688 523.421875 922.485351562 c 0
- 561.5078125 993.01171875 583.642578125 1046.2734375 626.157226562 1103.16992188 c 0
+ 484.389348785 771.795933703 522.218931778 964.071427995 626.157226562 1103.16992188 c 0
  635.635742188 1118.875 651.3203125 1115.72265625 665.505859375 1112.09472656 c 0
  676.600585938 1109.15527344 686.751953125 1103.45898438 694.896484375 1094.45605469 c 0
  701.532226562 1086.9609375 705.83203125 1078.3828125 705.168945312 1071.08007812 c 0
- 685.211914062 1025.51171875 661.819335938 983.243164062 643.083984375 945.45703125 c 0
- 628.313476562 915.611328125 614.233398438 885.907226562 598.53125 858.985351562 c 0
- 572.370117188 815.4296875 548.545898438 767.987304688 523 723 c 0
- 487.228515625 660.005859375 464.23535409 627.377596093 410.221679688 591.932617188 c 0
+ 702.911752576 1065.9261768 525.923061459 667.858446741 410.221679688 591.932617188 c 0
  369.423828125 565.16015625 300.3671875 525.513671875 257 508 c 1
  266.47265625 466.803710938 255.093683812 443.519515885 271 375 c 0
  284 319 288 296 301 256 c 1
- 421 292 543.524339945 345.225343541 714.3828125 471.719726562 c 0
- 771.73828125 514.182617188 861.55480342 601.495042802 953 744 c 0
- 1018.58984375 846.212890625 1027.91601562 910.014648438 1049 988 c 0
- 1055.86914062 1009.09667969 1079.24840109 1075.43202163 1098.06152344 1095.07617188 c 0
+ 421 292 527.810618311 369.816522809 714.3828125 471.719726562 c 0
+ 809.576378237 523.713161958 1048.83894673 929.524383587 1049 988 c 0
+ 1049.06280508 1010.80342201 1079.24840109 1075.43202163 1098.06152344 1095.07617188 c 0
  1104.05273438 1101.33203125 1111.06347656 1106.05566406 1118.40917969 1108.86523438 c 0
  1131.91503906 1114.03125 1146.54980469 1112.72753906 1158.046875 1102.58007812 c 0
 EndSplineSet
-Validated: 33
 LCarets2: 1 72
 MultipleSubs2: "Add hairspace before low marked Qof" shin hairspace
 EndChar
 
 StartChar: tav
 Encoding: 342 1514 86
-Width: 1033
+Width: 961
 GlyphClass: 2
 Flags: HW
 HStem: 741 323<461.607 745.99>
@@ -7041,15 +7005,15 @@ SplineSet
  417.125976562 1167 417.125976562 1167 415.53125 1143 c 0
  413.936523438 1119 413.936523438 1119 411.810546875 1085 c 1
  462.6015625 1102.22460938 562.02734375 1123.36914062 613.157226562 1131.32714844 c 0
- 672.8984375 1140.625 733.887695312 1144.20800781 798.498046875 1143.5 c 0
- 845.265625 1143.5 845.265625 1143.5 867.055664062 1119 c 0
- 888.845703125 1094.5 900.04296875 1047.92480469 903 990 c 0
- 951.05078125 48.69140625 969.055664062 -17.33984375 879.723632812 11.9404296875 c 0
- 872.016601562 14.466796875 856.428710938 15.18359375 845.172851562 13.8916015625 c 1
- 827.69557075 24.1695746916 827.69557075 24.1695746916 839.168945312 138.903320312 c 0
- 846.400278296 211.216650144 818.201004159 587.468269876 818 592 c 0
- 807 840 795 924 794.24609375 1005.5 c 0
- 794.00559407 1031.49888767 794.24609375 1031.5 786.274414062 1043 c 1
+ 672.8984375 1140.625 733.913455556 1141.54312281 798.498046875 1143.5 c 0
+ 815 1144 837.209960938 1142.5 859 1118 c 0
+ 880.790039062 1093.5 889.119260632 1043.9697322 891 986 c 0
+ 921.088802508 58.5775974563 939.347997469 5.62363667245 879.723632812 11.9404296875 c 0
+ 871.65822919 12.7949039541 856.428710938 15.18359375 845.172851562 13.8916015625 c 1
+ 827.69557075 24.1695746916 827.695570749 24.1695746917 839.168945312 138.903320312 c 0
+ 846.400278296 211.216650144 831.201171875 586.46875 831 591 c 0
+ 820 839 809.753070725 901.499992275 809 983 c 0
+ 808.759765625 1008.99902344 794.24609375 1031.5 786.274414062 1043 c 1
  771.357421875 1053.07617188 749.275390625 1055.6953125 724.739257812 1054.64746094 c 0
  684.09375 1047.59082031 636.2109375 1043.79980469 590.645507812 1036.08984375 c 0
  542.78125 1027.99121094 448.265625 1006.5703125 416.59375 981.5 c 1
@@ -9279,7 +9243,6 @@ LayerCount: 2
 Fore
 Refer: 85 1513 N 1 0 0 1 0 0 3
 Refer: 53 1473 N 1 0 0 1 2249 -24 2
-Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shinshindot hairspace
 Ligature2: "'ccmp' Shin composed with shin or sin dot subtable" shin shindot
@@ -9338,7 +9301,6 @@ LayerCount: 2
 Fore
 Refer: 85 1513 N 1 0 0 1 0 0 3
 Refer: 54 1474 N 1 0 0 1 1265 3 2
-Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shinsindot hairspace
 Ligature2: "'ccmp' Shin composed with shin or sin dot subtable" shin sindot
@@ -9398,7 +9360,6 @@ Fore
 Refer: 53 1473 N 1 0 0 1 2249 -24 2
 Refer: 48 1468 N 0.813084 0 0 0.808411 765 251.935 2
 Refer: 85 1513 N 1 0 0 1 -18 -80.9371 3
-Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shindageshshindot hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" shinshindot dagesh
@@ -9459,7 +9420,6 @@ Fore
 Refer: 54 1474 N 1 0 0 1 1265 3 2
 Refer: 48 1468 N 0.813084 0 0 0.808411 765 215.935 2
 Refer: 85 1513 N 1 0 0 1 0 -102 3
-Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shindageshsindot hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" shinsindot dagesh
@@ -9665,7 +9625,6 @@ LayerCount: 2
 Fore
 Refer: 62 1490 S 1 0 0 1 -24 -162 3
 Refer: 48 1468 N 1 0 0 1 192 36 2
-Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimeldagesh
 MultipleSubs2: "Add hairspace before low marked Qof" gimeldagesh hairspace
@@ -9787,7 +9746,6 @@ LayerCount: 2
 Fore
 Refer: 64 1492 N 1 0 0 1 0 0 2
 Refer: 48 1468 S 1.01401 0 0 0.989304 553.389 -9.214 2
-Validated: 1
 LCarets2: 1 8
 MultipleSubs2: "Add hairspace before low marked Qof" hedagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" he dagesh
@@ -10622,6 +10580,7 @@ LayerCount: 2
 Fore
 Refer: 83 1511 N 1 0 0 1 168 -8 3
 Refer: 48 1468 N 1.98189 0 0 1.05664 369.713 44.4565 2
+Validated: 5
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" kofdagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" kof dagesh
@@ -10742,7 +10701,6 @@ LayerCount: 2
 Fore
 Refer: 85 1513 N 1 0 0 1 12 -42 3
 Refer: 48 1468 N 0.813084 0 0 0.808411 741 228.935 2
-Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" shindagesh hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" shin dagesh
@@ -10750,7 +10708,7 @@ EndChar
 
 StartChar: tavdagesh
 Encoding: 403 64330 147
-Width: 1033
+Width: 961
 GlyphClass: 2
 Flags: HW
 HStem: 412 214<536.447 677.553> 741 323<461.607 745.99>
@@ -11139,7 +11097,6 @@ LayerCount: 2
 Fore
 Refer: 62 1490 N 1 0 0 1 0 0 3
 Refer: 51 1471 N 0.786047 0 0 0.798611 478 367.431 2
-Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before narrowletter subtable subtable" hairspace gimelrafe
 MultipleSubs2: "Add hairspace before low marked Qof" gimelrafe hairspace
@@ -11258,7 +11215,6 @@ LayerCount: 2
 Fore
 Refer: 64 1492 N 1 0 0 1 -6 0 2
 Refer: 51 1471 N 1 0 0 1 477 210 2
-Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" herafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" he rafe
@@ -11555,6 +11511,7 @@ Fore
 Refer: 45 1465 N 1 0 0 1 221 -36 2
 Refer: 72 1500 N 1 0 0 1 -387 37 2
 Refer: 48 1468 S 1 0 0 1 549 388 2
+Validated: 1
 LCarets2: 1 0
 MultipleSubs2: "Add hairspace before low marked Qof" lameddageshholam hairspace
 MultipleSubs2: "Add thispace after Lamed subtable" lameddageshholam thinspace
@@ -11563,7 +11520,7 @@ EndChar
 
 StartChar: tavrafe
 Encoding: 417 -1 161
-Width: 1033
+Width: 961
 GlyphClass: 2
 Flags: HW
 HStem: 741 323<461.607 745.99> 1174 122<435 779>
@@ -11614,6 +11571,7 @@ LayerCount: 2
 Fore
 Refer: 86 1514 N 1 0 0 1 24 -8 3
 Refer: 51 1471 N 1 0 0 1.11475 594 -2.57847 2
+Validated: 1
 LCarets2: 1 72
 MultipleSubs2: "Add hairspace before low marked Qof" tavrafe hairspace
 Ligature2: "'ccmp' Dagesh and Rafe Compositions subtable" tav rafe
