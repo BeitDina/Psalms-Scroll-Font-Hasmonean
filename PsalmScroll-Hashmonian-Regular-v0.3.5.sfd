@@ -1,6 +1,6 @@
 SplineFontDB: 3.2
-FontName: PsalmScroll-Hashmonian-Regular
-FullName: PsalmScroll Hashmonian Regular
+FontName: PsalmScroll
+FullName: PsalmScroll
 FamilyName: PsalmScroll
 Weight: Regular
 Copyright: PsalmScroll Hashmonian Light Copyright (C) 2026 The BeitDina.NET Team (https://github.com/BeitDina/Psalms-Scroll-Font-Hasmonean) and Copyright (C) 2019 The Solitreo Project Authors (https://github.com/ladinoprojects/solitreo), \nand Copyleft: \nCopyright (C) 2026 The BeitDina Team (https://github.com/beitdina/nabataean-aramic\nSamaritan-Aramaic Font with Early Imperial Aramaic artistic influences from Petra. (cca. 920-270 BCE). \nNabataean-Aramaic Font with Proto-Sianitic and Nabataean-Aramaic artistic influences from Sinai, Syria and Israel..\nOfficial Aramaic Font of writing around 330-260 BCE preserved in Israel and Levanon, with Official Aramaic artistic influences. \nAncient Aramaic Font with Ancient Aramaic artistic influences (cca. 700-550 BCE) \nImperial Aramaic Font with Early Imperial Aramaic artistic influences (cca. 950-650 BCE)\nCreated with FontForge 20230101 at Fri Jul 24 05:03:14 2026 by Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, and some glyphs based on (C) 2022 The Noto Project Authors (https://github.com/notofonts/hebrew) published under Sil-OFL (no credit is required).\nand some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat \nwho used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. \nThis layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>, \nSome syriac glyphs are under Copyright 2022 by The Noto Project Authors (https://github.com/notofonts/syriac)\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is copied below, and is also available with a FAQ at:\nhttps://openfontlicense.org
@@ -24,7 +24,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1490077942
-ModificationTime: 1794576474
+ModificationTime: 1794583678
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4151,17 +4151,18 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "0.0350;NONE;Hashmonian-Regular" "" "Version 0.031; ttfautohint (v1.8.4.7-5d5b)" "" "" "BeitDina.NET" "Bodin Florin Ciprian for the Hashmonian Hebrew Consonants, other glyphs by Noto Project Authors, and the Basic Latin Glyphs may be based on: Nathan Gross, Bryan Kirschen, Binghamton University" "" "https://BeitDina.NET" "https://documentingjudeospanish.com/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "" "Regular"
+LangName: 1033 "PsalmScroll Hashmonian Regular Copyright (C) 2026 The BeitDina.NET Team (https://github.com/BeitDina/Psalms-Scroll-Font-Hasmonean) and Copyright (C) 2019 The Solitreo Project Authors (https://github.com/ladinoprojects/solitreo), +AAoA-and Copyleft: +AAoA-Copyright (C) 2026 The BeitDina Team (https://github.com/beitdina/nabataean-aramic+AAoA-Samaritan-Aramaic Font with Early Imperial Aramaic artistic influences from Petra. (cca. 920-270 BCE). +AAoA-Nabataean-Aramaic Font with Proto-Sianitic and Nabataean-Aramaic artistic influences from Sinai, Syria and Israel..+AAoA-Official Aramaic Font of writing around 330-260 BCE preserved in Israel and Levanon, with Official Aramaic artistic influences. +AAoA-Ancient Aramaic Font with Ancient Aramaic artistic influences (cca. 700-550 BCE) +AAoA-Imperial Aramaic Font with Early Imperial Aramaic artistic influences (cca. 950-650 BCE)+AAoA-Created with FontForge 20230101 at Fri Jul 24 05:03:14 2026 by Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, and some glyphs based on (C) 2022 The Noto Project Authors (https://github.com/notofonts/hebrew) published under Sil-OFL (no credit is required).+AAoA-and some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat +AAoA-who used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. +AAoA-This layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>, +AAoA-Some syriac glyphs are under Copyright 2022 by The Noto Project Authors (https://github.com/notofonts/syriac)+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-https://openfontlicense.org" "" "Regular" "" "" "0.0.3.5" "" "" "BeitDina.NET" "Bodin Florin Ciprian for the Hashmonian Hebrew Consonants, other glyphs by Noto Project Authors, and the Basic Latin Glyphs may be based on: Nathan Gross, Bryan Kirschen, Binghamton University" "" "https://BeitDina.NET" "https://documentingjudeospanish.com/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "" "Regular"
 GaspTable: 1 65535 15 1
 OtfFeatName: 'ss01' 1033 "Alternate letters"
 OtfFeatName: 'ss02' 1033 "Alternates: Hebrew"
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 533 13 4
+WinInfo: 377 13 6
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 333447 166199 110100 564134 1048576 110100 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -42271,7 +42272,6 @@ LayerCount: 2
 Fore
 Refer: 404 1456 N 1 0 0 1 315 75 2
 Refer: 411 1463 N 1 0 0 1 0 0 3
-Validated: 513
 PairPos2: "'kern' Horizontal Kerning in Hebrew lookup 2 subtable" space dx=160 dy=0 dh=160 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning in Hebrew lookup 2 subtable" uniFB43 dx=340 dy=0 dh=340 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning in Hebrew lookup 2 subtable" uni05E3 dx=340 dy=0 dh=340 dv=0 dx=0 dy=0 dh=0 dv=0
@@ -42570,8 +42570,8 @@ Encoding: 1463 1463 411
 Width: 0
 GlyphClass: 4
 Flags: W
-HStem: -110 29<50 205>
-VStem: 50 155<-110 -81>
+HStem: -257 29<57 212>
+VStem: 57 155<-257 -228>
 TtInstrs:
 SVTCA[y-axis]
 PUSHB_1
@@ -42606,13 +42606,12 @@ AnchorPoint: "Anchor-2" 3 -6 mark 0
 LayerCount: 2
 Fore
 SplineSet
-50 -110 m 257,0,-1
- 50 -81 l 257,1,-1
- 205 -81 l 257,2,-1
- 205 -110 l 257,3,-1
- 50 -110 l 257,0,-1
+57 -257 m 257,0,-1
+ 57 -228 l 257,1,-1
+ 212 -228 l 257,2,-1
+ 212 -257 l 257,3,-1
+ 57 -257 l 257,0,-1
 EndSplineSet
-Validated: 513
 PairPos2: "'kern' Horizontal Kerning in Hebrew lookup 2 subtable" space dx=160 dy=0 dh=160 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning in Hebrew lookup 2 subtable" uniFB43 dx=340 dy=0 dh=340 dv=0 dx=0 dy=0 dh=0 dv=0
 PairPos2: "'kern' Horizontal Kerning in Hebrew lookup 2 subtable" uni05E3 dx=340 dy=0 dh=340 dv=0 dx=0 dy=0 dh=0 dv=0

@@ -1,7 +1,7 @@
 SplineFontDB: 3.2
-FontName: PsalmScroll-Hashmonian-Light
-FullName: PsalmScroll Hashmonian-Light
-FamilyName: PsalmScroll
+FontName: PsalmScroll-Hasmonian-Light
+FullName: PsalmScroll Hasmonian Light
+FamilyName: PsalmScroll-Hasmonian
 Weight: Light
 Copyright: PsalmScroll Hashmonian Light Copyright (C) 2026 The BeitDina.NET Team (https://github.com/BeitDina/Psalms-Scroll-Font-Hasmonean) and Copyright (C) 2019 The Solitreo Project Authors (https://github.com/ladinoprojects/solitreo), \nand Copyleft: \nCopyright (C) 2026 The BeitDina Team (https://github.com/beitdina/nabataean-aramic\nSamaritan-Aramaic Font with Early Imperial Aramaic artistic influences from Petra. (cca. 920-270 BCE). \nNabataean-Aramaic Font with Proto-Sianitic and Nabataean-Aramaic artistic influences from Sinai, Syria and Israel..\nOfficial Aramaic Font of writing around 330-260 BCE preserved in Israel and Levanon, with Official Aramaic artistic influences. \nAncient Aramaic Font with Ancient Aramaic artistic influences (cca. 700-550 BCE) \nImperial Aramaic Font with Early Imperial Aramaic artistic influences (cca. 950-650 BCE)\nCreated with FontForge 20230101 at Fri Jul 24 05:03:14 2026 by Florin Ciprian Bodin aka orynider @ github.com/beitdina/early-aramaic original based on Cardo with SIL Open Font License, and some glyphs based on Noto Imperial Aramaic and Noto Samaritan made by The Not Noto Project Authors (https://github.com/notofonts/imperial-aramaic)\nand some portions of font metrics are based on GNU-GPL version and MIT License of Keter Aram Tzova by Yoram Knat \nwho used Hebrew OpenType Layout logic copyright (c) 2003 & 2007, Ralph Hancock & John Hudson. \nThis layout logic for Biblical Hebrew is open source software under the MIT License; for details  contact copyright holders at <license@tiro.com>, \nSome syriac glyphs are under Copyright 2022 by The Noto Project Authors (https://github.com/notofonts/syriac)
 FontLog: "*In 3 September 2023 made version 0.4.4 by Florin Ciprian Bodin; *In 15 September 2026 made version 0.0.1 by Florin Ciprian Bodin;+AAoA*In 3 September 2023 made version 0.0.2; Added Edessa Tower Aleph, Beit, Gamel, Dalet;+AAoA"
@@ -17,13 +17,14 @@ LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
 XUID: [1021 151 -1813659235 20779]
+UseXUID: 1
 StyleMap: 0x0040
 FSType: 0
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1490077942
-ModificationTime: 1794424473
+ModificationTime: 1794584159
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -4141,7 +4142,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "" "" "Version 2.070; ttfautohint (v1.8.4.7-5d5b)" "" "" "BeitDina.NET" "Bodin Florin Ciprian for the Hashmonian Hebrew Consonants, other glyphs by Noto Project Authors, and the Basic Latin Glyphs may be based on: Nathan Gross, Bryan Kirschen, Binghamton University" "" "https://BeitDina.NET" "https://documentingjudeospanish.com/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "" "Light"
+LangName: 1033 "" "" "Light" "" "" "0.0.2.9" "" "" "BeitDina.NET" "Bodin Florin Ciprian for the Hashmonian Hebrew Consonants, other glyphs by Noto Project Authors, and the Basic Latin Glyphs may be based on: Nathan Gross, Bryan Kirschen, Binghamton University" "" "https://BeitDina.NET" "https://documentingjudeospanish.com/" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL" "https://scripts.sil.org/OFL" "" "" "Light"
 GaspTable: 1 65535 15 1
 Encoding: UnicodeBmp
 Compacted: 1
@@ -4150,7 +4151,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 325 13 6
+WinInfo: 403 13 6
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning lookup 4 subtable" "Anchor-1" "'mark' Mark Positioning lookup 4 subtable" "Anchor-2" "'mark' Mark Positioning lookup 4 subtable" "Anchor-3" "'mark' Mark Positioning lookup 4 subtable" "Anchor-4" "'mark' Mark Positioning lookup 4 subtable" "Anchor-5" "'mark' Mark Positioning lookup 4 subtable" "Anchor-6" "'mark' Mark Positioning lookup 5 subtable" "Anchor-7" "'mark' Mark Positioning lookup 5 subtable" "Anchor-8" "'mark' Mark Positioning lookup 5 subtable" "Anchor-9" "'mark' Mark Positioning lookup 5 subtable" "Anchor-10" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-11" "'mkmk' Mark to Mark lookup 7 subtable"
